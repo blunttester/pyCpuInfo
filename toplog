@@ -1,0 +1,732 @@
+09:43:19.970795
+PID    COMMAND          RSIZE  VSIZE  %CPU #TH  STATE    TIME    
+48058  top              2280K+ 2376M+ 5.9  1/1  running  00:00.27
+47487  eclipse          384M+  3568M+ 4.4  42   sleeping 05:00.38
+47530- Spotify          180M+  1130M  3.7  25   sleeping 03:46.49
+0      kernel_task      1519M- 8580M  2.6  93/5 running  06:55:56
+3665-  steam            109M   1065M  1.9  39   sleeping 90:38.43
+78     WindowServer     392M+  3672M+ 1.6  4    sleeping 04:42:41
+5622-  Google Chrome    243M   1608M  1.5  38   sleeping 01:52:45
+23882- iPhoto           102M   1419M  1.3  27   sleeping 12:40.23
+5556   iTunes           95M    2932M  1.1  108  sleeping 74:10.49
+46758- Microsoft Excel  128M   1073M  1.0  10   sleeping 02:56.59
+09:43:22.438177
+PID    COMMAND          RSIZE  VSIZE  %CPU #TH  STATE    TIME    
+47487  eclipse          386M+  3575M+ 8.3  48/1 running  05:00.71
+48069  top              2284K+ 2376M+ 7.0  1/1  running  00:00.29
+47530- Spotify          180M+  1130M  5.3  25   sleeping 03:46.62
+23137  Mail             83M+   3774M+ 3.4  24   sleeping 03:14.08
+0      kernel_task      1519M+ 8580M  2.4  93/5 running  06:55:56
+3665-  steam            109M   1065M  1.9  39   sleeping 90:38.47
+78     WindowServer     395M+  3675M+ 1.8  4    sleeping 04:42:41
+23882- iPhoto           102M   1419M  1.5  27   sleeping 12:40.27
+279    Finder           104M+  3108M- 1.4  7    sleeping 36:22.23
+5622-  Google Chrome    243M   1608M  1.2  38   sleeping 01:52:45
+09:43:59.653260
+PID    COMMAND          RSIZE  VSIZE  %CPU #TH  STATE    TIME    
+47487  eclipse          391M+  3574M+ 8.3  47   sleeping 05:05.97
+48100  top              2280K+ 2376M+ 7.1  1/1  running  00:00.33
+78     WindowServer     409M+  3678M+ 3.7  4    sleeping 04:42:43
+47530- Spotify          179M+  1129M  3.7  25   sleeping 03:48.04
+0      kernel_task      1520M- 8580M  3.0  93/4 running  06:55:58
+59     hidd             1768K  2410M  1.9  5    sleeping 42:32.40
+3665-  steam            109M   1065M  1.9  38   sleeping 90:39.22
+5556   iTunes           95M    2932M  1.6  108  sleeping 74:11.05
+23882- iPhoto           102M   1420M  1.2  28   sleeping 12:40.79
+5622-  Google Chrome    243M   1608M  1.1  38   sleeping 01:52:46
+10:01:57.632145
+PID    COMMAND          RSIZE  VSIZE  %CPU #TH  STATE    TIME    
+48123  top              2284K+ 2376M+ 5.9  1/1  running  00:00.27
+47487  eclipse          385M+  3582M+ 5.7  47   sleeping 06:50.58
+0      kernel_task      1519M+ 8580M  3.2  93/5 running  06:56:26
+47530- Spotify          183M   1129M  3.1  25   sleeping 04:23.04
+78     WindowServer     419M-  3693M- 2.9  4    sleeping 04:43:21
+3665-  steam            109M   1065M  1.9  39   sleeping 91:01.39
+59     hidd             1752K  2410M  1.7  5    sleeping 42:39.08
+5556   iTunes           95M    2932M  1.4  108  sleeping 74:23.14
+23882- iPhoto           102M   1419M  1.4  27   sleeping 12:56.29
+5622-  Google Chrome    245M   1633M  1.3  35   sleeping 01:53:11
+10:01:57.632145
+PID    COMMAND          RSIZE  VSIZE  %CPU #TH  STATE    TIME    
+48133  top              2280K+ 2376M+ 7.1  1/1  running  00:00.28
+47530- Spotify          183M   1129M  3.0  25   sleeping 04:23.32
+47487  eclipse          386M   3579M  2.3  42   sleeping 06:51.26
+3665-  steam            109M   1065M  2.0  39   sleeping 91:01.57
+0      kernel_task      1519M  8580M  1.9  93/4 running  06:56:26
+23882- iPhoto           102M   1419M  1.4  27   sleeping 12:56.42
+78     WindowServer     431M+  3704M+ 1.3  4    sleeping 04:43:21
+5622-  Google Chrome    245M   1633M  1.2  35   sleeping 01:53:11
+46758- Microsoft Excel  128M   1073M  1.0  10   sleeping 03:08.48
+5556   iTunes           95M    2932M  0.9  108  sleeping 74:23.24
+10:01:57.632145
+PID    COMMAND          RSIZE  VSIZE  %CPU #TH  STATE    TIME    
+5622-  Google Chrome    245M+  1647M+ 21.8 36   sleeping 01:53:13
+48144  top              2280K+ 2376M+ 7.6  1/1  running  00:00.34
+8006-  Google Chrome He 54M+   925M+  6.6  10   sleeping 01:27.21
+5634-  Google Chrome He 19M+   809M   5.1  10   sleeping 02:40.30
+78     WindowServer     422M+  3695M+ 3.2  4    sleeping 04:43:22
+47501  Timing lite      309M-  2915M- 3.0  9    sleeping 01:29.42
+0      kernel_task      1519M+ 8580M  3.0  93/4 running  06:56:26
+46694- Google Chrome He 108M+  983M+  2.9  4    sleeping 03:17.22
+47530- Spotify          183M   1129M  2.5  25   sleeping 04:23.61
+3665-  steam            109M   1065M  1.9  39   sleeping 91:01.76
+10:01:57.632145
+PID    COMMAND          RSIZE  VSIZE  %CPU #TH  STATE    TIME    
+48159  top              2280K+ 2376M+ 7.1  1/1  running  00:00.31
+47487  eclipse          386M   3580M  4.8  44   sleeping 06:51.84
+47530- Spotify          183M   1129M  3.3  25   sleeping 04:23.91
+78     WindowServer     423M+  3695M+ 2.9  4    sleeping 04:43:22
+0      kernel_task      1519M- 8580M  2.7  93/4 running  06:56:27
+5622-  Google Chrome    245M+  1660M- 2.6  35   sleeping 01:53:14
+3665-  steam            109M   1065M  2.0  39   sleeping 91:01.93
+5556   iTunes           95M    2932M  1.4  108  sleeping 74:23.50
+23882- iPhoto           102M   1420M  1.3  28/1 running  12:56.67
+22649  Terminal         46M    2698M  1.2  9    stuck    03:16.60
+10:07:43.535315
+PID    COMMAND          RSIZE  VSIZE  %CPU #TH  STATE    TIME    
+47487  eclipse          384M-  3579M- 6.1  45   sleeping 07:16.12
+48189  top              2276K+ 2376M+ 6.0  1/1  running  00:00.26
+47530- Spotify          184M+  1130M+ 3.3  26   sleeping 04:35.05
+78     WindowServer     426M+  3699M+ 2.5  4    sleeping 04:43:35
+0      kernel_task      1519M+ 8580M  2.4  93/4 running  06:56:35
+3665-  steam            109M+  1066M  2.0  40   sleeping 91:08.41
+5556   iTunes           95M    2932M  1.3  108  sleeping 74:27.25
+23882- iPhoto           102M   1420M  1.3  28   sleeping 13:01.18
+5622-  Google Chrome    243M   1642M  1.1  34   sleeping 01:53:30
+5860   WebProcess       62M+   4143M+ 1.1  12   sleeping 01:48.56
+10:07:43.535315
+PID    COMMAND          RSIZE  VSIZE  %CPU #TH  STATE    TIME    
+47487  eclipse          385M+  3578M+ 6.5  43   sleeping 07:16.48
+48202  top              2272K+ 2376M+ 5.7  1/1  running  00:00.25
+5622-  Google Chrome    243M-  1644M- 5.3  38   stuck    01:53:32
+78     WindowServer     422M+  3694M+ 4.1  4    sleeping 04:43:35
+47530- Spotify          184M   1129M  3.2  25   sleeping 04:35.33
+0      kernel_task      1520M+ 8581M+ 2.9  93/4 running  06:56:36
+3665-  steam            109M   1066M  1.9  40   sleeping 91:08.58
+23882- iPhoto           102M   1419M  1.6  27   sleeping 13:01.30
+5556   iTunes           95M    2932M  1.4  108  sleeping 74:27.37
+22649  Terminal         46M-   2698M- 1.3  9    stuck    03:17.59
+10:07:43.535315
+PID    COMMAND          RSIZE  VSIZE  %CPU #TH  STATE    TIME    
+5622-  Google Chrome    243M+  1643M- 15.6 37/1 running  01:53:32
+48212  top              2272K+ 2376M+ 9.5  1/1  running  00:00.33
+78     WindowServer     422M+  3696M+ 6.0  4    sleeping 04:43:35
+47487  eclipse          385M+  3578M+ 4.6  43   sleeping 07:16.88
+47530- Spotify          184M+  1130M+ 3.2  27   sleeping 04:35.63
+0      kernel_task      1519M+ 8580M  3.0  93/4 running  06:56:36
+3665-  steam            109M   1065M  1.9  39   sleeping 91:08.78
+23882- iPhoto           102M   1419M  1.5  27   sleeping 13:01.44
+5556   iTunes           95M+   2932M+ 1.2  109  sleeping 74:27.49
+22649  Terminal         46M    2698M  1.2  9    stuck    03:17.70
+10:07:43.535315
+PID    COMMAND          RSIZE  VSIZE  %CPU #TH  STATE    TIME    
+71     java             141M+  3671M+ 67.5 33   sleeping 20:27.06
+8006-  Google Chrome He 105M+  941M+  11.2 12   sleeping 01:28.99
+5622-  Google Chrome    244M+  1644M+ 8.1  34   sleeping 01:53:34
+48225  top              2276K+ 2376M+ 7.1  1/1  running  00:00.31
+47487  eclipse          385M   3579M  6.4  44   sleeping 07:17.19
+0      kernel_task      1519M  8580M  5.1  93/4 running  06:56:36
+47530- Spotify          184M   1129M  2.7  25   sleeping 04:35.87
+5634-  Google Chrome He 19M+   809M   2.4  10   sleeping 02:41.01
+78     WindowServer     422M-  3694M- 2.1  4    sleeping 04:43:36
+51     mds              66M+   3200M+ 1.5  10   sleeping 38:04.45
+10:07:43.535315
+PID    COMMAND          RSIZE  VSIZE  %CPU #TH  STATE    TIME    
+47487  eclipse          385M+  3578M+ 9.6  42   sleeping 07:18.39
+48235  top              2276K+ 2376M+ 5.9  1/1  running  00:00.26
+78     WindowServer     422M+  3694M+ 4.4  4    sleeping 04:43:36
+47530- Spotify          184M   1129M  3.3  25   sleeping 04:36.14
+0      kernel_task      1519M+ 8580M  2.8  93/4 running  06:56:37
+3665-  steam            109M   1065M  1.9  39   sleeping 91:09.11
+5556   iTunes           95M    2932M  1.5  108  sleeping 74:27.68
+5622-  Google Chrome    244M   1643M  1.5  33   sleeping 01:53:34
+59     hidd             1756K  2410M  1.5  5    sleeping 42:41.77
+23882- iPhoto           102M   1420M  1.3  28   sleeping 13:01.67
+10:07:43.535315
+PID    COMMAND          RSIZE  VSIZE  %CPU #TH  STATE    TIME    
+48245  top              2276K+ 2376M+ 6.9  1/1  running  00:00.28
+47487  eclipse          385M+  3578M- 4.7  43   sleeping 07:19.15
+47530- Spotify          184M   1129M  3.1  25   sleeping 04:36.47
+78     WindowServer     422M+  3695M+ 2.6  4    sleeping 04:43:36
+0      kernel_task      1519M- 8580M  2.4  93/4 running  06:56:37
+3665-  steam            109M   1065M  2.0  39/1 running  91:09.30
+5556   iTunes           95M    2932M  1.3  108  sleeping 74:27.81
+23882- iPhoto           102M   1419M  1.3  27   sleeping 13:01.79
+5622-  Google Chrome    244M   1643M  1.2  33   sleeping 01:53:34
+59     hidd             1756K  2410M  1.2  5    sleeping 42:41.92
+10:07:43.535315
+PID    COMMAND          RSIZE  VSIZE  %CPU #TH  STATE    TIME    
+47487  eclipse          385M+  3578M+ 7.4  43/1 running  07:19.48
+48255  top              2276K+ 2376M+ 7.1  1/1  running  00:00.29
+47530- Spotify          184M   1129M  3.2  25   sleeping 04:36.76
+0      kernel_task      1519M+ 8580M  2.9  93/4 running  06:56:37
+78     WindowServer     422M-  3694M- 2.6  4    sleeping 04:43:37
+3665-  steam            109M   1065M  2.0  39   sleeping 91:09.50
+59     hidd             1756K  2410M  1.7  5    sleeping 42:41.98
+5556   iTunes           95M    2932M  1.5  108  sleeping 74:27.93
+5622-  Google Chrome    244M-  1643M- 1.3  33   sleeping 01:53:34
+23882- iPhoto           102M   1419M  1.3  27   sleeping 13:01.93
+10:07:43.535315
+PID    COMMAND          RSIZE  VSIZE  %CPU #TH  STATE    TIME    
+48265  top              2276K+ 2376M+ 6.9  1/1  running  00:00.27
+47487  eclipse          384M   3577M  6.0  42   sleeping 07:20.17
+47530- Spotify          184M   1130M  3.7  26   sleeping 04:37.05
+78     WindowServer     426M+  3698M+ 3.3  4    sleeping 04:43:37
+0      kernel_task      1519M- 8580M  2.6  93/4 running  06:56:37
+5556   iTunes           95M    2932M  1.9  108  sleeping 74:28.05
+3665-  steam            109M   1065M  1.9  39   sleeping 91:09.69
+22649  Terminal         46M    2697M  1.9  8    stuck    03:18.22
+59     hidd             1756K  2410M  1.8  5    sleeping 42:42.11
+5622-  Google Chrome    244M   1643M  1.7  33   sleeping 01:53:35
+10:07:43.535315
+PID    COMMAND          RSIZE  VSIZE  %CPU #TH  STATE    TIME    
+48275  top              2276K+ 2376M+ 7.3  1/1  running  00:00.29
+47487  eclipse          385M-  3578M- 5.4  42   sleeping 07:21.43
+47530- Spotify          184M   1129M  3.1  25   sleeping 04:37.35
+0      kernel_task      1519M+ 8580M  2.6  93/4 running  06:56:38
+78     WindowServer     422M+  3695M+ 2.2  4    sleeping 04:43:37
+3665-  steam            109M   1065M  2.0  39   sleeping 91:09.87
+5622-  Google Chrome    244M   1643M  1.6  33   sleeping 01:53:35
+23882- iPhoto           102M   1420M  1.2  28   sleeping 13:02.19
+5556   iTunes           95M    2932M  1.1  108  sleeping 74:28.18
+22649  Terminal         46M    2697M  1.0  8    stuck    03:18.33
+10:07:43.535315
+PID    COMMAND          RSIZE  VSIZE  %CPU #TH  STATE    TIME    
+48286  top              2280K+ 2376M+ 5.8  1/1  running  00:00.25
+47487  eclipse          385M   3578M  3.4  42   sleeping 07:21.93
+47530- Spotify          184M   1129M  3.0  25   sleeping 04:37.69
+3665-  steam            109M   1065M  2.1  39   sleeping 91:10.07
+0      kernel_task      1519M- 8580M  1.7  93/4 running  06:56:38
+5622-  Google Chrome    244M+  1644M+ 1.6  34   sleeping 01:53:35
+259    distnoted        9548K  2436M  1.5  8    sleeping 05:16.57
+23882- iPhoto           102M   1420M  1.4  28   sleeping 13:02.33
+46758- Microsoft Excel  128M   1073M  1.0  10   sleeping 03:12.85
+5556   iTunes           95M    2932M  1.0  108  sleeping 74:28.29
+10:07:43.535315
+PID    COMMAND          RSIZE  VSIZE  %CPU #TH  STATE    TIME    
+47487  eclipse          386M+  3582M+ 12.6 46   sleeping 07:22.54
+48296  top              2276K+ 2376M+ 7.7  1/1  running  00:00.29
+47530- Spotify          184M   1129M  2.8  25   sleeping 04:37.96
+78     WindowServer     424M+  3696M+ 2.3  4    sleeping 04:43:37
+3665-  steam            109M   1065M  2.1  39   sleeping 91:10.26
+0      kernel_task      1519M- 8580M  1.9  93/5 running  06:56:38
+23882- iPhoto           102M-  1419M- 1.4  27   sleeping 13:02.46
+5622-  Google Chrome    244M   1643M  1.2  33   sleeping 01:53:35
+46758- Microsoft Excel  128M   1073M  1.0  10   sleeping 03:12.94
+5556   iTunes           95M    2932M  1.0  108  sleeping 74:28.38
+10:07:43.535315
+PID    COMMAND          RSIZE  VSIZE  %CPU #TH  STATE    TIME    
+48306  top              2276K+ 2376M+ 7.1  1/1  running  00:00.28
+47487  eclipse          385M   3580M  4.0  45   sleeping 07:23.18
+47530- Spotify          184M   1129M  3.0  25   sleeping 04:38.24
+3665-  steam            109M   1065M  2.2  39   sleeping 91:10.46
+0      kernel_task      1519M+ 8580M  1.8  93/5 running  06:56:38
+23882- iPhoto           102M   1419M  1.3  27   sleeping 13:02.59
+8729   DashboardClient  18M+   3558M+ 1.3  8    sleeping 08:01.70
+5622-  Google Chrome    244M   1643M  1.2  33   sleeping 01:53:35
+46758- Microsoft Excel  128M   1073M  1.0  10   sleeping 03:13.04
+7855   calibre          15M    3766M  0.9  11   sleeping 17:10.42
+10:07:43.535315
+PID    COMMAND          RSIZE  VSIZE  %CPU #TH  STATE    TIME    
+47487  eclipse          385M+  3579M- 10.2 44   sleeping 07:24.07
+48316  top              2276K+ 2376M+ 6.8  1/1  running  00:00.28
+78     WindowServer     422M-  3695M+ 4.3  4    sleeping 04:43:38
+47530- Spotify          184M   1129M  3.3  25   sleeping 04:38.54
+0      kernel_task      1519M+ 8580M  2.6  93/4 running  06:56:38
+1      launchd          2152K  2414M  2.6  3    sleeping 24:18.68
+3665-  steam            109M   1065M  1.9  39   sleeping 91:10.65
+59     hidd             1764K  2410M  1.4  5    sleeping 42:42.33
+5556   iTunes           95M    2932M  1.4  108  sleeping 74:28.58
+22649  Terminal         46M    2697M  1.4  7    sleeping 03:18.72
+10:07:43.535315
+PID    COMMAND          RSIZE  VSIZE  %CPU #TH  STATE    TIME    
+47487  eclipse          385M-  3578M- 9.5  42   sleeping 07:24.82
+48326  top              2276K+ 2376M+ 7.0  1/1  running  00:00.28
+78     WindowServer     422M+  3694M+ 3.2  4    sleeping 04:43:38
+0      kernel_task      1519M+ 8580M  3.0  93/4 running  06:56:39
+47530- Spotify          184M   1129M  2.7  25   sleeping 04:38.80
+59     hidd             1776K  2410M  2.1  5    sleeping 42:42.49
+3665-  steam            109M   1065M  1.9  39   sleeping 91:10.84
+23882- iPhoto           102M+  1420M+ 1.2  28   sleeping 13:02.85
+5622-  Google Chrome    244M-  1643M- 1.2  33   sleeping 01:53:35
+46758- Microsoft Excel  128M   1073M  0.9  10   sleeping 03:13.23
+10:07:43.535315
+PID    COMMAND          RSIZE  VSIZE  %CPU #TH  STATE    TIME    
+47487  eclipse          386M+  3582M+ 15.7 47   sleeping 07:25.73
+48336  top              2276K+ 2376M+ 6.7  1/1  running  00:00.29
+78     WindowServer     423M+  3695M- 4.0  4/1  running  04:43:38
+47530- Spotify          184M-  1129M- 2.7  25   sleeping 04:39.09
+3665-  steam            109M   1065M  1.9  39   sleeping 91:11.02
+0      kernel_task      1519M+ 8580M  1.8  93/4 running  06:56:39
+5622-  Google Chrome    244M   1643M  1.7  33   sleeping 01:53:36
+23882- iPhoto           102M   1420M  1.3  28   sleeping 13:02.98
+46758- Microsoft Excel  128M   1073M  0.9  10   sleeping 03:13.32
+7855   calibre          15M    3766M  0.9  11   sleeping 17:10.69
+10:07:43.535315
+PID    COMMAND          RSIZE  VSIZE  %CPU #TH  STATE    TIME    
+47487  eclipse          386M+  3579M+ 15.9 43   sleeping 07:27.02
+48346  top              2276K+ 2376M+ 5.7  1/1  running  00:00.26
+78     WindowServer     426M-  3699M+ 4.2  5    sleeping 04:43:39
+47530- Spotify          184M   1129M  2.7  25   sleeping 04:39.36
+0      kernel_task      1519M- 8580M  2.1  93/4 running  06:56:39
+3665-  steam            109M   1065M  1.9  39   sleeping 91:11.22
+5622-  Google Chrome    244M   1643M  1.8  33   sleeping 01:53:36
+23882- iPhoto           102M   1420M  1.3  29   stuck    13:03.11
+46758- Microsoft Excel  128M   1073M  0.9  10   sleeping 03:13.42
+7855   calibre          15M+   3767M+ 0.9  12   sleeping 17:10.78
+10:07:43.535315
+PID    COMMAND          RSIZE  VSIZE  %CPU #TH  STATE    TIME    
+47487  eclipse          386M+  3580M+ 11.8 44   stuck    07:28.22
+48356  top              2276K+ 2376M+ 5.6  1/1  running  00:00.27
+78     WindowServer     426M-  3699M- 3.8  4    sleeping 04:43:39
+47530- Spotify          184M   1129M  2.7  25   sleeping 04:39.63
+3665-  steam            109M   1065M  1.8  39/1 running  91:11.40
+5622-  Google Chrome    244M+  1644M+ 1.8  34/1 running  01:53:36
+0      kernel_task      1519M- 8580M  1.7  93/4 running  06:56:39
+23882- iPhoto           102M+  1420M  1.4  28   sleeping 13:03.24
+46758- Microsoft Excel  128M   1073M  0.9  10   sleeping 03:13.51
+7855   calibre          15M    3766M  0.9  11   sleeping 17:10.86
+10:07:43.535315
+PID    COMMAND          RSIZE  VSIZE  %CPU #TH  STATE    TIME    
+47487  eclipse          386M   3580M  12.5 45   sleeping 07:29.48
+48366  top              2276K+ 2376M+ 7.5  1/1  running  00:00.29
+78     WindowServer     424M-  3697M- 3.8  4    sleeping 04:43:39
+47530- Spotify          184M   1129M  2.7  25   sleeping 04:39.89
+23137  Mail             83M+   3774M+ 2.5  24   sleeping 03:16.15
+0      kernel_task      1519M- 8580M  2.2  93/4 running  06:56:39
+3665-  steam            109M   1065M  1.8  39   sleeping 91:11.58
+5622-  Google Chrome    244M+  1644M+ 1.5  34   sleeping 01:53:36
+23882- iPhoto           102M-  1419M- 1.4  27   sleeping 13:03.37
+5556   iTunes           95M    2932M  1.1  108  sleeping 74:29.05
+10:07:43.535315
+PID    COMMAND          RSIZE  VSIZE  %CPU #TH  STATE    TIME    
+47487  eclipse          386M+  3581M- 16.2 46   stuck    07:30.76
+78     WindowServer     423M-  3695M+ 7.0  4    sleeping 04:43:40
+48376  top              2276K+ 2376M+ 5.7  1/1  running  00:00.27
+5622-  Google Chrome    244M+  1644M+ 3.8  35   sleeping 01:53:36
+47530- Spotify          184M   1129M  2.9  25   sleeping 04:40.18
+0      kernel_task      1519M+ 8580M  1.9  93/5 running  06:56:40
+3665-  steam            109M   1065M  1.9  39/1 running  91:11.78
+23882- iPhoto           102M   1419M  1.4  27   sleeping 13:03.50
+5556   iTunes           95M    2932M  1.0  108  sleeping 74:29.15
+46758- Microsoft Excel  128M   1073M  0.9  10   sleeping 03:13.70
+10:07:43.535315
+PID    COMMAND          RSIZE  VSIZE  %CPU #TH  STATE    TIME    
+47487  eclipse          386M-  3581M- 14.2 46   stuck    07:31.69
+48386  top              2276K+ 2376M+ 7.1  1/1  running  00:00.28
+78     WindowServer     422M-  3694M- 5.8  4    sleeping 04:43:40
+0      kernel_task      1519M+ 8580M  2.9  93/4 running  06:56:40
+47530- Spotify          184M   1129M  2.7  25   sleeping 04:40.47
+59     hidd             1764K  2410M  2.1  5/1  running  42:42.68
+3665-  steam            109M   1065M  1.8  38   sleeping 91:11.96
+23882- iPhoto           102M-  1419M- 1.2  27   sleeping 13:03.62
+5622-  Google Chrome    244M   1643M  1.2  33   sleeping 01:53:36
+5556   iTunes           95M    2932M  0.9  108  sleeping 74:29.28
+10:10:54.716289
+PID    COMMAND          RSIZE  VSIZE  %CPU #TH  STATE    TIME    
+48407  top              2276K+ 2376M+ 7.0  1/1  running  00:00.31
+47487  eclipse          385M+  3581M+ 4.0  47   sleeping 07:33.09
+47530- Spotify          184M   1130M  2.8  26   sleeping 04:40.94
+0      kernel_task      1519M+ 8580M  2.1  93/4 running  06:56:40
+3665-  steam            109M   1066M  2.0  40   sleeping 91:12.25
+78     WindowServer     422M+  3695M+ 1.9  4    sleeping 04:43:41
+23882- iPhoto           102M+  1420M+ 1.3  28   sleeping 13:03.82
+5622-  Google Chrome    244M-  1643M- 1.2  33   sleeping 01:53:37
+46758- Microsoft Excel  128M   1073M  1.0  10   sleeping 03:13.93
+5556   iTunes           95M    2932M  0.9  108  sleeping 74:29.45
+10:10:54.716289
+PID    COMMAND          RSIZE  VSIZE  %CPU #TH  STATE    TIME    
+5622-  Google Chrome    244M+  1645M+ 28.8 36   sleeping 01:53:38
+48418  top              2280K+ 2376M+ 9.8  1/1  running  00:00.34
+78     WindowServer     422M+  3694M- 4.9  4    sleeping 04:43:41
+5634-  Google Chrome He 19M+   809M   4.9  10   sleeping 02:41.22
+46694- Google Chrome He 94M-   954M-  4.0  4    sleeping 03:20.25
+47530- Spotify          184M   1129M  3.0  25   sleeping 04:41.24
+8006-  Google Chrome He 103M+  945M   2.7  11   sleeping 01:30.11
+0      kernel_task      1519M+ 8580M  2.5  93/4 running  06:56:40
+47487  eclipse          386M   3579M  1.7  43   sleeping 07:33.32
+3665-  steam            109M   1065M  1.7  39   sleeping 91:12.42
+10:10:54.716289
+PID    COMMAND          RSIZE  VSIZE  %CPU #TH  STATE    TIME    
+48433  top              2276K+ 2376M+ 5.9  1/1  running  00:00.27
+47487  eclipse          386M   3580M  3.6  45   sleeping 07:33.60
+47530- Spotify          184M   1129M  3.1  25   sleeping 04:41.52
+0      kernel_task      1519M  8580M  2.0  93/5 running  06:56:41
+3665-  steam            109M   1065M  2.0  39   sleeping 91:12.59
+5622-  Google Chrome    244M-  1645M- 1.6  36   sleeping 01:53:40
+23882- iPhoto           102M   1419M  1.5  27   sleeping 13:04.06
+5556   iTunes           95M    2932M  1.1  108  sleeping 74:29.70
+46758- Microsoft Excel  128M   1073M  1.0  11   sleeping 03:14.11
+7855   calibre          15M    3766M  0.9  11   sleeping 17:11.44
+10:10:54.716289
+PID    COMMAND          RSIZE  VSIZE  %CPU #TH  STATE    TIME    
+47487  eclipse          385M+  3581M+ 8.4  47   sleeping 07:34.71
+48443  top              2272K+ 2376M+ 8.2  1/1  running  00:00.31
+0      kernel_task      1518M  8580M  3.1  93/6 running  06:56:41
+47530- Spotify          184M   1129M  2.9  25   sleeping 04:41.80
+23137  Mail             83M+   3773M+ 2.5  22   sleeping 03:16.22
+3665-  steam            109M   1065M  1.9  39   sleeping 91:12.77
+78     WindowServer     428M+  3700M+ 1.8  4    sleeping 04:43:42
+5622-  Google Chrome    244M   1644M  1.4  34   sleeping 01:53:40
+23882- iPhoto           102M   1419M  1.4  27   sleeping 13:04.19
+5556   iTunes           95M    2932M  1.1  108  sleeping 74:29.81
+10:10:54.716289
+PID    COMMAND          RSIZE  VSIZE  %CPU #TH  STATE    TIME    
+48453  top              2276K+ 2376M+ 7.2  1/1  running  00:00.29
+78     WindowServer     426M+  3699M+ 4.3  4    sleeping 04:43:42
+5622-  Google Chrome    244M+  1644M+ 4.1  35   sleeping 01:53:40
+47487  eclipse          386M+  3580M+ 4.1  45/1 running  07:35.18
+47530- Spotify          184M   1129M  2.9  25   sleeping 04:42.09
+0      kernel_task      1519M+ 8580M  2.6  93/5 running  06:56:41
+3665-  steam            109M   1065M  2.3  39/1 running  91:12.98
+23882- iPhoto           102M   1419M  1.4  27   sleeping 13:04.32
+277    Dock             46M+   2704M+ 1.2  7    sleeping 82:43.81
+5556   iTunes           95M    2932M  1.0  108  sleeping 74:29.90
+10:10:54.716289
+PID    COMMAND          RSIZE  VSIZE  %CPU #TH  STATE    TIME    
+48463  top              2272K+ 2376M+ 7.1  1/1  running  00:00.28
+47487  eclipse          386M   3579M  3.7  43   sleeping 07:35.56
+47530- Spotify          184M   1129M  2.9  25/1 running  04:42.37
+0      kernel_task      1519M- 8580M  2.3  93/5 running  06:56:41
+3665-  steam            109M-  1065M- 1.9  38   sleeping 91:13.18
+5622-  Google Chrome    244M   1644M  1.6  34   sleeping 01:53:40
+23882- iPhoto           102M   1419M  1.5  27   sleeping 13:04.46
+45374  mdworker         31M    2456M  1.2  4    sleeping 00:32.46
+5556   iTunes           95M    2932M  1.0  108  sleeping 74:30.00
+46758- Microsoft Excel  128M   1073M  1.0  10   sleeping 03:14.40
+10:10:54.716289
+PID    COMMAND          RSIZE  VSIZE  %CPU #TH  STATE    TIME    
+48473  top              2272K+ 2376M+ 6.9  1/1  running  00:00.28
+47487  eclipse          386M   3580M  3.6  45   sleeping 07:35.92
+47530- Spotify          184M   1129M  3.0  25/1 running  04:42.65
+3665-  steam            109M-  1065M- 2.0  38   sleeping 91:13.37
+0      kernel_task      1519M  8580M  2.0  93/4 running  06:56:42
+23882- iPhoto           102M   1419M  1.4  27   sleeping 13:04.59
+5622-  Google Chrome    244M   1644M  1.2  34   sleeping 01:53:40
+46758- Microsoft Excel  128M   1073M  1.1  10   sleeping 03:14.51
+5556   iTunes           95M    2932M  1.0  108  sleeping 74:30.11
+7855   calibre          15M    3766M  0.9  11   sleeping 17:11.79
+10:10:54.716289
+PID    COMMAND          RSIZE  VSIZE  %CPU #TH  STATE    TIME    
+48483  top              2272K+ 2376M+ 5.7  1/1  running  00:00.25
+47487  eclipse          386M   3579M  3.5  43   sleeping 07:36.26
+47530- Spotify          184M-  1129M- 2.9  25/1 running  04:42.93
+0      kernel_task      1518M  8580M  2.0  93/5 running  06:56:42
+3665-  steam            109M   1065M  2.0  38/1 running  91:13.57
+23882- iPhoto           102M   1419M  1.4  27   sleeping 13:04.73
+5622-  Google Chrome    244M   1644M  1.2  34   sleeping 01:53:40
+46758- Microsoft Excel  128M   1073M  1.1  10   sleeping 03:14.61
+78     WindowServer     438M+  3711M+ 1.0  4    sleeping 04:43:42
+7855   calibre          15M    3766M  0.9  11   sleeping 17:11.89
+10:10:54.716289
+PID    COMMAND          RSIZE  VSIZE  %CPU #TH  STATE    TIME    
+48493  top              2272K+ 2376M+ 6.8  1/1  running  00:00.27
+47487  eclipse          385M   3576M  3.7  40   sleeping 07:36.69
+47530- Spotify          184M   1129M  2.9  25   sleeping 04:43.22
+0      kernel_task      1519M  8580M  2.3  93/6 running  06:56:42
+3665-  steam            109M   1065M  2.0  39   sleeping 91:13.76
+23882- iPhoto           102M   1419M  1.4  27   sleeping 13:04.87
+5622-  Google Chrome    244M   1644M  1.2  34   sleeping 01:53:41
+46758- Microsoft Excel  128M   1073M  1.1  10   sleeping 03:14.71
+7855   calibre          15M+   3767M+ 1.1  12   sleeping 17:11.98
+5556   iTunes           95M    2932M  1.0  108  sleeping 74:30.30
+10:10:54.716289
+PID    COMMAND          RSIZE  VSIZE  %CPU #TH  STATE    TIME    
+48503  top              2272K+ 2376M+ 5.6  1/1  running  00:00.25
+47487  eclipse          385M   3576M  3.3  40   sleeping 07:37.03
+47530- Spotify          184M   1129M  2.9  25   sleeping 04:43.49
+3665-  steam            109M+  1065M+ 2.1  39   sleeping 91:13.96
+0      kernel_task      1519M  8580M  2.1  93/5 running  06:56:42
+23882- iPhoto           102M   1419M  1.4  27   sleeping 13:05.01
+5622-  Google Chrome    244M   1644M  1.3  34   sleeping 01:53:41
+46758- Microsoft Excel  128M   1073M  1.0  10/1 running  03:14.81
+5556   iTunes           95M    2932M  1.0  108  sleeping 74:30.40
+7855   calibre          15M    3766M  1.0  11   sleeping 17:12.07
+10:10:54.716289
+PID    COMMAND          RSIZE  VSIZE  %CPU #TH  STATE    TIME    
+48513  top              2272K+ 2376M+ 7.0  1/1  running  00:00.28
+47487  eclipse          385M   3576M  3.6  40   sleeping 07:37.37
+47530- Spotify          184M   1129M  3.0  25   sleeping 04:43.79
+3665-  steam            109M   1065M  2.2  39   sleeping 91:14.15
+0      kernel_task      1519M  8580M  1.9  93/4 running  06:56:42
+23882- iPhoto           102M   1419M  1.4  27/1 running  13:05.14
+5622-  Google Chrome    244M   1644M  1.1  34   sleeping 01:53:41
+46758- Microsoft Excel  128M   1073M  1.0  10   sleeping 03:14.91
+7855   calibre          15M    3766M  0.9  11/1 running  17:12.16
+5556   iTunes           95M    2932M  0.9  108  sleeping 74:30.49
+10:10:54.716289
+PID    COMMAND          RSIZE  VSIZE  %CPU #TH  STATE    TIME    
+48523  top              2272K+ 2376M+ 6.9  1/1  running  00:00.27
+47487  eclipse          385M   3576M  3.6  40   sleeping 07:37.73
+47530- Spotify          184M   1129M  3.0  25   sleeping 04:44.07
+3665-  steam            109M   1065M  2.0  38   sleeping 91:14.35
+0      kernel_task      1519M  8580M  1.9  93/5 running  06:56:43
+23882- iPhoto           102M   1419M  1.4  27   sleeping 13:05.28
+5622-  Google Chrome    244M   1644M  1.2  34   sleeping 01:53:41
+7855   calibre          15M    3766M  1.1  11   sleeping 17:12.26
+46758- Microsoft Excel  128M   1073M  1.0  10   sleeping 03:15.02
+5556   iTunes           95M    2932M  0.9  108  sleeping 74:30.58
+10:10:54.716289
+PID    COMMAND          RSIZE  VSIZE  %CPU #TH  STATE    TIME    
+48543  top              2276K+ 2376M+ 7.0  1/1  running  00:00.28
+47487  eclipse          385M   3576M  3.4  40   sleeping 07:38.07
+47530- Spotify          184M   1129M  3.0  25   sleeping 04:44.35
+3665-  steam            109M   1065M  2.0  38   sleeping 91:14.54
+0      kernel_task      1519M  8580M  1.9  93/4 running  06:56:43
+23882- iPhoto           102M   1419M  1.4  27   sleeping 13:05.42
+5622-  Google Chrome    244M   1644M  1.2  34   sleeping 01:53:41
+46758- Microsoft Excel  128M   1073M  1.0  10   sleeping 03:15.12
+7855   calibre          15M    3766M  0.9  11   sleeping 17:12.35
+5556   iTunes           95M    2932M  0.9  108  sleeping 74:30.68
+10:10:54.716289
+PID    COMMAND          RSIZE  VSIZE  %CPU #TH  STATE    TIME    
+48553  top              2276K+ 2376M+ 7.0  1/1  running  00:00.28
+47487  eclipse          385M+  3576M  3.8  40   sleeping 07:38.43
+47530- Spotify          184M   1129M  3.1  25/1 running  04:44.63
+3665-  steam            109M-  1065M- 2.0  38   sleeping 91:14.74
+0      kernel_task      1519M  8580M  1.9  93/5 running  06:56:43
+23882- iPhoto           102M   1419M  1.4  27   sleeping 13:05.56
+5622-  Google Chrome    244M   1644M  1.2  34   sleeping 01:53:41
+5556   iTunes           95M    2932M  1.0  108  sleeping 74:30.78
+46758- Microsoft Excel  128M   1073M  1.0  10   sleeping 03:15.22
+7855   calibre          15M    3766M  0.9  11   sleeping 17:12.44
+10:10:54.716289
+PID    COMMAND          RSIZE  VSIZE  %CPU #TH  STATE    TIME    
+48563  top              2276K+ 2376M+ 7.2  1/1  running  00:00.28
+47487  eclipse          385M   3576M  3.9  40   sleeping 07:38.79
+47530- Spotify          184M   1129M  3.0  25   sleeping 04:44.92
+3665-  steam            109M   1065M  2.0  39   sleeping 91:14.93
+0      kernel_task      1519M  8580M  2.0  93/4 running  06:56:43
+1      launchd          2156K  2414M  1.9  3    sleeping 24:19.00
+23882- iPhoto           102M   1420M+ 1.4  28   stuck    13:05.69
+5622-  Google Chrome    244M   1644M  1.2  34   sleeping 01:53:41
+46758- Microsoft Excel  128M   1073M  1.0  10   sleeping 03:15.32
+7855   calibre          15M    3766M  0.9  11   sleeping 17:12.53
+10:10:54.716289
+PID    COMMAND          RSIZE  VSIZE  %CPU #TH  STATE    TIME    
+47501  Timing lite      309M+  2914M+ 15.2 7    sleeping 01:34.62
+48573  top              2276K+ 2376M+ 7.1  1/1  running  00:00.28
+47487  eclipse          385M+  3576M+ 3.8  40   sleeping 07:39.14
+0      kernel_task      1519M+ 8580M  3.5  93/4 running  06:56:43
+47530- Spotify          184M   1129M  2.7  25   sleeping 04:45.20
+3665-  steam            109M   1065M  1.9  39   sleeping 91:15.13
+78     WindowServer     442M+  3714M+ 1.3  5    sleeping 04:43:43
+23882- iPhoto           102M   1420M  1.2  28   sleeping 13:05.83
+5622-  Google Chrome    244M   1644M  1.1  34   sleeping 01:53:41
+277    Dock             46M+   2704M+ 1.0  7    sleeping 82:43.83
+10:10:54.716289
+PID    COMMAND          RSIZE  VSIZE  %CPU #TH  STATE    TIME    
+48584  top              2280K+ 2376M+ 6.9  1/1  running  00:00.28
+78     WindowServer     423M-  3695M- 5.5  4    sleeping 04:43:44
+5622-  Google Chrome    245M-  1645M- 4.0  38   sleeping 01:53:43
+0      kernel_task      1519M- 8580M  3.5  93/4 running  06:56:44
+47530- Spotify          184M   1129M  3.3  25   sleeping 04:45.50
+48176- Google Chrome He 65M+   863M   3.2  10   sleeping 00:01.38
+3665-  steam            109M   1065M  1.9  39   sleeping 91:15.31
+47487  eclipse          385M   3576M  1.8  40   sleeping 07:39.36
+59     hidd             1752K  2410M  1.6  5    sleeping 42:43.28
+46694- Google Chrome He 106M+  965M-  1.5  4    sleeping 03:20.57
+10:10:54.716289
+PID    COMMAND          RSIZE  VSIZE  %CPU #TH  STATE    TIME    
+48594  top              2280K+ 2376M+ 7.4  1/1  running  00:00.29
+78     WindowServer     424M+  3696M+ 3.5  4    sleeping 04:43:44
+0      kernel_task      1519M- 8580M  3.3  93/4 running  06:56:44
+5622-  Google Chrome    245M-  1645M- 3.1  38   sleeping 01:53:43
+47530- Spotify          184M   1129M  2.8  25   sleeping 04:45.77
+3665-  steam            109M   1065M  2.0  39   sleeping 91:15.51
+47487  eclipse          385M   3575M  1.8  39   sleeping 07:39.54
+48176- Google Chrome He 66M+   863M   1.8  10   sleeping 00:01.54
+23882- iPhoto           102M   1419M  1.4  27   sleeping 13:06.08
+59     hidd             1752K  2410M  1.4  5    sleeping 42:43.43
+10:10:54.716289
+PID    COMMAND          RSIZE  VSIZE  %CPU #TH  STATE    TIME    
+48604  top              2280K+ 2376M+ 7.1  1/1  running  00:00.28
+47530- Spotify          184M   1129M  2.9  25   sleeping 04:46.05
+3665-  steam            109M   1065M  2.0  39   sleeping 91:15.70
+47487  eclipse          385M   3575M  1.9  39   sleeping 07:39.73
+0      kernel_task      1519M  8580M  1.8  93/5 running  06:56:44
+5622-  Google Chrome    244M   1644M  1.5  37   sleeping 01:53:43
+23882- iPhoto           102M   1419M  1.5  27   sleeping 13:06.22
+5860   WebProcess       61M+   4141M+ 1.1  12   sleeping 01:49.22
+46758- Microsoft Excel  128M   1073M  1.0  10/1 running  03:15.71
+7855   calibre          15M    3766M  0.9  11   sleeping 17:12.90
+10:10:54.716289
+PID    COMMAND          RSIZE  VSIZE  %CPU #TH  STATE    TIME    
+48614  top              2280K+ 2376M+ 7.1  1/1  running  00:00.28
+47487  eclipse          385M+  3576M+ 3.9  40   sleeping 07:40.13
+47530- Spotify          184M   1129M  2.9  25   sleeping 04:46.34
+0      kernel_task      1519M  8580M  2.1  93/4 running  06:56:44
+3665-  steam            109M   1065M  2.0  39   sleeping 91:15.90
+23882- iPhoto           102M+  1420M+ 1.5  29   stuck    13:06.36
+43637- Google Chrome He 50M+   865M   1.4  10   sleeping 00:10.42
+5622-  Google Chrome    244M   1644M  1.2  37   sleeping 01:53:43
+46758- Microsoft Excel  128M-  1073M- 1.0  10   sleeping 03:15.81
+7855   calibre          15M    3766M  0.9  11   sleeping 17:13.00
+10:10:54.716289
+PID    COMMAND          RSIZE  VSIZE  %CPU #TH  STATE    TIME    
+48624  top              2280K+ 2376M+ 7.0  1/1  running  00:00.28
+0      kernel_task      1520M- 8580M  3.5  93/5 running  06:56:45
+47530- Spotify          184M+  1130M+ 2.9  26   sleeping 04:46.62
+3665-  steam            109M   1065M  2.0  39   sleeping 91:16.10
+47487  eclipse          385M-  3574M- 1.9  38   sleeping 07:40.42
+5622-  Google Chrome    244M-  1644M- 1.7  37   sleeping 01:53:43
+23882- iPhoto           102M   1420M  1.5  28   stuck    13:06.49
+59     hidd             1752K  2410M  1.3  5/1  running  42:43.54
+46758- Microsoft Excel  128M   1073M  0.9  10/1 running  03:15.91
+5556   iTunes           95M    2932M  0.9  108  sleeping 74:31.48
+10:10:54.716289
+PID    COMMAND          RSIZE  VSIZE  %CPU #TH  STATE    TIME    
+48634  top              2280K+ 2376M+ 7.8  1/1  running  00:00.32
+78     WindowServer     423M-  3695M+ 7.6  4    sleeping 04:43:45
+5622-  Google Chrome    245M+  1645M+ 6.9  39   sleeping 01:53:44
+47487  eclipse          385M+  3575M+ 4.3  40   sleeping 07:40.65
+0      kernel_task      1520M+ 8580M  3.2  93/5 running  06:56:45
+47530- Spotify          184M   1129M  2.7  25/1 running  04:46.90
+48176- Google Chrome He 66M    863M   2.3  10   sleeping 00:01.80
+3665-  steam            109M+  1065M+ 2.0  39   sleeping 91:16.29
+23882- iPhoto           102M   1420M  1.3  28   stuck    13:06.62
+46694- Google Chrome He 111M-  970M-  1.1  4    sleeping 03:20.76
+10:10:54.716289
+PID    COMMAND          RSIZE  VSIZE  %CPU #TH  STATE    TIME    
+47487  eclipse          385M-  3574M- 11.1 38   sleeping 07:43.00
+48644  top              2280K+ 2376M+ 7.0  1/1  running  00:00.28
+78     WindowServer     424M+  3696M+ 4.4  4    sleeping 04:43:45
+47530- Spotify          184M   1129M  2.7  25   sleeping 04:47.15
+0      kernel_task      1520M  8580M  2.2  93/4 running  06:56:45
+3665-  steam            109M   1065M  1.9  39   sleeping 91:16.46
+23882- iPhoto           102M   1420M  1.3  28   sleeping 13:06.74
+5622-  Google Chrome    244M   1644M  1.1  37   sleeping 01:53:44
+5556   iTunes           95M    2932M  1.0  108  sleeping 74:31.65
+46758- Microsoft Excel  128M   1073M  0.9  10   sleeping 03:16.09
+10:10:54.716289
+PID    COMMAND          RSIZE  VSIZE  %CPU #TH  STATE    TIME    
+47487  eclipse          385M-  3577M- 13.4 43   sleeping 07:44.07
+48654  top              2280K+ 2376M+ 5.9  1/1  running  00:00.25
+78     WindowServer     423M-  3695M- 3.0  4    sleeping 04:43:46
+47530- Spotify          184M   1129M  2.8  25   sleeping 04:47.43
+0      kernel_task      1520M- 8580M  2.1  93/4 running  06:56:45
+3665-  steam            109M+  1065M+ 2.0  39   sleeping 91:16.65
+5622-  Google Chrome    244M   1644M  1.6  37   sleeping 01:53:44
+23882- iPhoto           102M   1420M  1.3  28   sleeping 13:06.87
+43637- Google Chrome He 51M+   865M   1.0  10   sleeping 00:10.45
+46758- Microsoft Excel  128M   1073M  1.0  10   sleeping 03:16.19
+10:10:54.716289
+PID    COMMAND          RSIZE  VSIZE  %CPU #TH  STATE    TIME    
+47487  eclipse          385M+  3577M- 13.5 41   sleeping 07:45.05
+48664  top              2280K+ 2376M+ 6.0  1/1  running  00:00.27
+78     WindowServer     426M-  3699M+ 3.3  4    sleeping 04:43:46
+47530- Spotify          184M   1129M  2.8  25   sleeping 04:47.70
+0      kernel_task      1520M- 8580M  2.3  93/4 running  06:56:46
+3665-  steam            109M   1065M  2.0  39   sleeping 91:16.84
+5622-  Google Chrome    244M   1644M  1.3  37   sleeping 01:53:44
+23882- iPhoto           102M   1420M  1.2  28   sleeping 13:07.01
+46758- Microsoft Excel  128M   1073M  0.9  10   sleeping 03:16.29
+5556   iTunes           95M    2932M  0.9  108  sleeping 74:31.82
+10:10:54.716289
+PID    COMMAND          RSIZE  VSIZE  %CPU #TH  STATE    TIME    
+47487  eclipse          385M   3578M  9.8  42   sleeping 07:46.06
+48674  top              2280K+ 2376M+ 6.9  1/1  running  00:00.29
+47530- Spotify          184M   1129M  2.8  25   sleeping 04:47.97
+78     WindowServer     427M+  3699M+ 2.2  4    sleeping 04:43:46
+0      kernel_task      1519M- 8580M  2.0  93/5 running  06:56:46
+3665-  steam            109M   1065M  1.9  39   sleeping 91:17.03
+23882- iPhoto           102M-  1419M- 1.3  27   sleeping 13:07.14
+5622-  Google Chrome    244M   1644M  1.1  37   sleeping 01:53:44
+46758- Microsoft Excel  128M   1073M  1.0  10   sleeping 03:16.39
+7855   calibre          15M    3766M  0.9  11   sleeping 17:13.54
+10:14:53.905155
+PID    COMMAND          RSIZE  VSIZE  %CPU #TH  STATE    TIME    
+48685  top              2280K+ 2376M+ 6.4  1/1  running  00:00.28
+47487  eclipse          385M-  3581M- 4.9  48   sleeping 07:47.05
+47530- Spotify          184M   1129M  2.9  25   sleeping 04:48.17
+0      kernel_task      1520M- 8580M  2.0  93/4 running  06:56:46
+3665-  steam            109M   1065M  1.9  39   sleeping 91:17.15
+78     WindowServer     427M+  3699M+ 1.7  4    sleeping 04:43:46
+23882- iPhoto           102M   1419M  1.3  27   sleeping 13:07.23
+5622-  Google Chrome    244M   1644M  1.2  37   sleeping 01:53:44
+7855   calibre          15M    3766M  1.0  11   sleeping 17:13.60
+46758- Microsoft Excel  128M   1073M  1.0  10   sleeping 03:16.45
+10:14:53.905155
+PID    COMMAND          RSIZE  VSIZE  %CPU #TH  STATE    TIME    
+47487  eclipse          386M+  3578M+ 12.8 42   sleeping 07:47.65
+48695  top              2280K+ 2376M+ 7.3  1/1  running  00:00.28
+0      kernel_task      1519M+ 8580M  3.0  93/4 running  06:56:46
+47530- Spotify          184M   1129M  2.9  25   sleeping 04:48.46
+78     WindowServer     428M-  3700M- 2.1  4    sleeping 04:43:46
+3665-  steam            109M   1065M  1.9  39/1 running  91:17.34
+23882- iPhoto           102M   1419M  1.4  27   sleeping 13:07.36
+59     hidd             1752K+ 2410M+ 1.2  5    sleeping 42:43.79
+5622-  Google Chrome    244M   1644M  1.1  37   sleeping 01:53:44
+5556   iTunes           95M    2932M  1.0  108  sleeping 74:32.10
+10:14:53.905155
+PID    COMMAND          RSIZE  VSIZE  %CPU #TH  STATE    TIME    
+47487  eclipse          386M+  3579M- 14.1 43   sleeping 07:49.39
+48705  top              2280K+ 2376M+ 7.3  1/1  running  00:00.32
+78     WindowServer     423M-  3696M+ 3.7  4    sleeping 04:43:47
+0      kernel_task      1520M+ 8580M  2.7  93/4 running  06:56:47
+47530- Spotify          184M   1131M  2.7  25   sleeping 04:48.78
+3665-  steam            109M   1065M  1.9  39   sleeping 91:17.51
+23882- iPhoto           102M   1419M  1.4  27   sleeping 13:07.49
+5622-  Google Chrome    244M   1644M  1.1  37   sleeping 01:53:45
+59     hidd             1752K  2410M  1.1  5    sleeping 42:43.96
+5556   iTunes           95M    2932M  1.0  108  sleeping 74:32.20
+10:14:53.905155
+PID    COMMAND          RSIZE  VSIZE  %CPU #TH  STATE    TIME    
+47487  eclipse          386M   3579M  38.4 44   sleeping 07:51.63
+48715  top              2280K+ 2376M+ 7.7  1/1  running  00:00.29
+78     WindowServer     420M-  3693M- 6.6  5/1  running  04:43:47
+47530- Spotify          184M   1131M  2.5  25   sleeping 04:49.03
+0      kernel_task      1520M- 8580M  2.0  93/4 running  06:56:47
+23137  Mail             83M+   3773M+ 1.7  22   sleeping 03:16.52
+3665-  steam            109M+  1065M+ 1.7  39   sleeping 91:17.68
+23882- iPhoto           102M   1419M  1.4  27   sleeping 13:07.61
+5622-  Google Chrome    244M   1644M  1.1  37   sleeping 01:53:45
+46758- Microsoft Excel  128M   1073M  0.9  10   sleeping 03:16.73
+10:14:53.905155
+PID    COMMAND          RSIZE  VSIZE  %CPU #TH  STATE    TIME    
+47487  eclipse          386M+  3578M  9.2  42   sleeping 07:52.52
+48725  top              2280K+ 2376M+ 6.4  1/1  running  00:00.26
+47530- Spotify          184M   1130M  2.8  25   sleeping 04:49.31
+78     WindowServer     424M+  3696M+ 2.4  4    sleeping 04:43:48
+0      kernel_task      1520M- 8580M  2.3  93/5 running  06:56:47
+3665-  steam            109M   1065M  2.0  39   sleeping 91:17.87
+23882- iPhoto           102M   1419M  1.3  27   sleeping 13:07.74
+5622-  Google Chrome    244M   1644M  1.1  37   sleeping 01:53:45
+7855   calibre          15M    3766M  0.9  11   sleeping 17:13.96
+46758- Microsoft Excel  128M   1073M  0.9  10   sleeping 03:16.83
+10:14:53.905155
+PID    COMMAND          RSIZE  VSIZE  %CPU #TH  STATE    TIME    
+47487  eclipse          386M   3579M  34.2 42   sleeping 07:54.78
+78     WindowServer     427M+  3699M+ 7.2  4    sleeping 04:43:48
+48735  top              2280K+ 2376M+ 7.0  1/1  running  00:00.33
+47530- Spotify          184M   1130M  2.4  25   sleeping 04:49.57
+0      kernel_task      1520M- 8580M  2.1  93/5 running  06:56:47
+3665-  steam            109M+  1066M+ 1.6  40   sleeping 91:18.05
+23882- iPhoto           102M   1419M  1.0  27   sleeping 13:07.86
+5622-  Google Chrome    244M   1644M  1.0  37   sleeping 01:53:45
+46758- Microsoft Excel  128M   1073M  0.8  10   sleeping 03:16.92
+5556   iTunes           95M    2932M  0.7  108  sleeping 74:32.46
+10:14:53.905155
+PID    COMMAND          RSIZE  VSIZE  %CPU #TH  STATE    TIME    
+47487  eclipse          386M+  3580M+ 11.0 43/1 running  07:55.56
+48745  top              2280K+ 2376M+ 7.7  1/1  running  00:00.29
+78     WindowServer     427M-  3699M- 3.0  4    sleeping 04:43:48
+47530- Spotify          184M   1130M  2.8  25   sleeping 04:49.84
+0      kernel_task      1519M- 8580M  2.0  93/5 running  06:56:47
+3665-  steam            109M   1065M  1.9  39   sleeping 91:18.24
+23882- iPhoto           102M-  1419M- 1.3  27   sleeping 13:07.99
+5622-  Google Chrome    244M   1644M  1.2  37   sleeping 01:53:45
+5556   iTunes           95M    2932M  1.0  108  sleeping 74:32.55
+46758- Microsoft Excel  128M   1073M  0.9  10   sleeping 03:17.01
+10:14:53.905155
+PID    COMMAND          RSIZE  VSIZE  %CPU #TH  STATE    TIME    
+48755  top              2280K+ 2376M+ 6.7  1/1  running  00:00.29
+47487  eclipse          386M+  3580M+ 5.6  44   sleeping 07:57.53
+47530- Spotify          184M+  1130M  2.9  25   sleeping 04:50.10
+0      kernel_task      1520M- 8580M  2.1  93/5 running  06:56:48
+3665-  steam            109M   1066M  1.9  40   sleeping 91:18.42
+78     WindowServer     427M-  3700M- 1.6  4    sleeping 04:43:49
+23882- iPhoto           102M   1420M  1.3  28   sleeping 13:08.12
+5622-  Google Chrome    244M   1644M  1.2  37   sleeping 01:53:45
+46758- Microsoft Excel  128M   1073M  1.0  10   sleeping 03:17.11
+7855   calibre          15M    3766M  1.0  11   sleeping 17:14.23
